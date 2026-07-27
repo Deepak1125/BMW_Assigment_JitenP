@@ -4,3 +4,4 @@ Follow the Branches for tasks
 
 task1 number actions
 task2 lamda functions
+task3 Array Addition

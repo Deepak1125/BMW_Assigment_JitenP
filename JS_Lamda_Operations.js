@@ -11,6 +11,9 @@ names.forEach(name => console.log(name));
 let Shockednames = names.map(name => name+'!');
 console.log(Shockednames);
 
+let reversedname = names.map(name => name.split('').reverse().join(''));
+console.log(reversedname);
+
 //for filter Function
 let nameslength = names.filter(name => name.length>5);
 console.log(nameslength);

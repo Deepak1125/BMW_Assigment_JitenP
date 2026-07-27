@@ -19,5 +19,5 @@ let nameslength = names.filter(name => name.length>5);
 console.log(nameslength);
 
 //for find Function
-let namefinder = names.find(name => name.startsWith('D'));
+let namefinder = names.find(name => name.match(/a/gi));
 console.log(namefinder);

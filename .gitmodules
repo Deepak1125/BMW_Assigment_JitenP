@@ -1,0 +1,6 @@
+[submodule "spring-boot-crud-java"]
+	path = spring-boot-crud-java
+	url = https://github.com/Deepak1125/spring-boot-crud-java.git
+[submodule "spring-crud-java-deploy"]
+	path = spring-crud-java-deploy
+	url = https://github.com/Deepak1125/spring-crud-java-deploy.git

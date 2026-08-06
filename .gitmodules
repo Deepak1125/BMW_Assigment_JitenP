@@ -1,0 +1,6 @@
+[submodule "Knowledge-base-Search-Engine"]
+	path = Knowledge-base-Search-Engine
+	url = https://github.com/Deepak1125/Knowledge-base-Search-Engine.git
+[submodule "Knowledge-base-Search-Engine-deploy"]
+	path = Knowledge-base-Search-Engine-deploy
+	url = https://github.com/Deepak1125/Knowledge-base-Search-Engine-deploy.git
